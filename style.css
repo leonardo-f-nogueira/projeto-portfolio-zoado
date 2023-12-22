@@ -1,0 +1,72 @@
+body {
+  background-color: rgb(214, 210, 203);
+}
+
+h1,
+h2,
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: brown;
+}
+
+p {
+  font-size: 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Sobre */
+.linksInternos {
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(233, 135, 8);
+  text-decoration: none;
+}
+
+.linksInternos:hover {
+  text-decoration: underline;
+}
+
+#minhaFoto {
+  width: 250px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#linkTopo {
+  text-decoration: none;
+  color: white;
+  color: rgb(233, 135, 8);
+  padding: 10px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}
+
+/* Habilidades Pessoais */
+
+li {
+  font-size: 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#orgulho {
+  color: red;
+}
+
+/*Foto Pessoal*/
+
+#foto {
+  width: 300px;
+}
+
+/*Redes Sociais*/
+.redesSociais {
+  font-size: 16px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
